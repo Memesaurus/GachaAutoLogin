@@ -1,0 +1,7 @@
+{
+"SCRIPTS_PATH": "./AutoHotKey",
+"AHK2EXE_PATH": "C:/Program Files/AutoHotkey/Compiler/Ahk2Exe.exe",
+"BASE_PATH": "C:/Program Files/AutoHotkey/v2/AutoHotkey.exe",
+"NOX_PATH": "D:/Program Files/Nox/bin/Nox.exe",
+"MAX_INSTANCES": 2
+}
